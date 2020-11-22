@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
 project(code_name_PaRtY)
 
-set(CMAKE_CXX_STANDART 17)
+set(CMAKE_CXX_STANDARD 17)
 
 find_package(Threads REQUIRED)
 
