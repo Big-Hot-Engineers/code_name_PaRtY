@@ -1,1 +1,4 @@
-# Test-repository
+# code_name_PaRtY
+
+Скрин с распределением обязанностей
+![скрин](./readme/Screenshot_20201122_164938.png "Скрин с презентации")
