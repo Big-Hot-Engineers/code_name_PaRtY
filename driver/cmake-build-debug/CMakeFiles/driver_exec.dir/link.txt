@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/driver_exec.dir/main.cpp.o  -o driver_exec libdriver.a -lwiringPi -lpthread 

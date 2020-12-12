@@ -1,0 +1,4 @@
+/home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles/driver.dir
+/home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles/driver_exec.dir

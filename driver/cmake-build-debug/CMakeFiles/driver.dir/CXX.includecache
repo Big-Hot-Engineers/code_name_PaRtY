@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/code_name_PaRtY/driver/lib/driver.h
+wiringPi.h
+-
+softPwm.h
+-
+
+/home/pi/code_name_PaRtY/driver/lib/driverManager.cpp
+driver.h
+/home/pi/code_name_PaRtY/driver/lib/driver.h
+driverManager.h
+/home/pi/code_name_PaRtY/driver/lib/driverManager.h
+
+/home/pi/code_name_PaRtY/driver/lib/driverManager.h
+

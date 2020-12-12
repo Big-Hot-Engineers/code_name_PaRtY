@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pigpio"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\positioning\;CMake Files\arduino\;CMake Files\cv\;CMake Files\map\;CMake Files\move_logic\;CMake Files\third_party\;CMake Files\third_party\pigpio\;CMake Files\third_party\pigpio\cmake\;CMake Files\driver\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_pigpiod_if">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/x_pigpiod_if" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 x_pigpiod_if"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_pigpiod_if/fast">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/x_pigpiod_if" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 x_pigpiod_if/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigpiod_if">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/libpigpiod_if.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigpiod_if"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigpiod_if/fast">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/libpigpiod_if.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigpiod_if/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigpio">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/libpigpio.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigpio"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigpio/fast">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/libpigpio.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigpio/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigpiod_if2">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/libpigpiod_if2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigpiod_if2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigpiod_if2/fast">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/libpigpiod_if2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigpiod_if2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pig2vcd">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/pig2vcd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pig2vcd"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pig2vcd/fast">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/pig2vcd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pig2vcd/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigpiod">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/pigpiod" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigpiod"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigpiod/fast">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/pigpiod" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigpiod/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_pigpiod_if2">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/x_pigpiod_if2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 x_pigpiod_if2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_pigpiod_if2/fast">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/x_pigpiod_if2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 x_pigpiod_if2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigs">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/pigs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigs"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pigs/fast">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/pigs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 pigs/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_pigpio">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/x_pigpio" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 x_pigpio"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_pigpio/fast">
+				<Option output="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/x_pigpio" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/8/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 x_pigpio/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/command.c">
+			<Option target="pigpiod_if"/>
+			<Option target="pigpio"/>
+			<Option target="pigpiod_if2"/>
+			<Option target="pig2vcd"/>
+			<Option target="pigs"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/command.h">
+			<Option target="pigpiod_if"/>
+			<Option target="pigpio"/>
+			<Option target="pigpiod_if2"/>
+			<Option target="pig2vcd"/>
+			<Option target="pigs"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/custom.cext">
+			<Option target="pigpio"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pig2vcd.c">
+			<Option target="pig2vcd"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pigpio.c">
+			<Option target="pigpio"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pigpio.h">
+			<Option target="pigpio"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pigpiod.c">
+			<Option target="pigpiod"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pigpiod_if.c">
+			<Option target="pigpiod_if"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pigpiod_if.h">
+			<Option target="pigpiod_if"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pigpiod_if2.c">
+			<Option target="pigpiod_if2"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pigpiod_if2.h">
+			<Option target="pigpiod_if2"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pigs.c">
+			<Option target="pigs"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/pigs.h">
+			<Option target="pigs"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/x_pigpio.c">
+			<Option target="x_pigpio"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/x_pigpiod_if.c">
+			<Option target="x_pigpiod_if"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/x_pigpiod_if2.c">
+			<Option target="x_pigpiod_if2"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/positioning/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\positioning\"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/arduino/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\arduino\"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/cv/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cv\"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/map/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\map\"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/move_logic/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\move_logic\"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\third_party\pigpio\"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/cmake/FindRT.cmake">
+			<Option virtualFolder="CMake Files\third_party\pigpio\cmake\"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/third_party/pigpio/cmake/setup.py.in">
+			<Option virtualFolder="CMake Files\third_party\pigpio\cmake\"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/driver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\driver\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
