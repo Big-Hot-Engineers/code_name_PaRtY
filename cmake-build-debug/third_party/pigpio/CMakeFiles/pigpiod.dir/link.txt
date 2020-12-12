@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/pigpiod.dir/pigpiod.c.o  -o pigpiod -Wl,-rpath,/home/pi/code_name_PaRtY/cmake-build-debug/third_party/pigpio: libpigpio.so -lrt -lpthread 

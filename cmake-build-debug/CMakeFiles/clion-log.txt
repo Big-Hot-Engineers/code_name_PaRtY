@@ -1,8 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/pi/code_name_PaRtY
-CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
-  CMake 3.14 or higher is required.  You are running version 3.13.4
-
-
--- Configuring incomplete, errors occurred!
-See also "/home/pi/code_name_PaRtY/cmake-build-debug/CMakeFiles/CMakeOutput.log".
-See also "/home/pi/code_name_PaRtY/cmake-build-debug/CMakeFiles/CMakeError.log".
