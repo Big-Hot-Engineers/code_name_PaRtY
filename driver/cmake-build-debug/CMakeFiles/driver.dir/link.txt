@@ -1,2 +1,2 @@
-/usr/bin/ar qc libdriver.a  CMakeFiles/driver.dir/lib/driver.cpp.o CMakeFiles/driver.dir/lib/driverManager.cpp.o
+/usr/bin/ar qc libdriver.a  CMakeFiles/driver.dir/lib/driver.cpp.o CMakeFiles/driver.dir/lib/driverManager.cpp.o CMakeFiles/driver.dir/lib/Interface.cpp.o CMakeFiles/driver.dir/lib/Robot.cpp.o
 /usr/bin/ranlib libdriver.a

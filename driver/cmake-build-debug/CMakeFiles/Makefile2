@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/pi/code_name_PaRtY/driver/cmake-build-debug
 CMakeFiles/driver.dir/all:
 	$(MAKE) -f CMakeFiles/driver.dir/build.make CMakeFiles/driver.dir/depend
 	$(MAKE) -f CMakeFiles/driver.dir/build.make CMakeFiles/driver.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target driver"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target driver"
 .PHONY : CMakeFiles/driver.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/driver.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/driver.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/driver.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/driver.dir/rule
@@ -108,7 +108,7 @@ clean: CMakeFiles/driver.dir/clean
 CMakeFiles/driver_exec.dir/all: CMakeFiles/driver.dir/all
 	$(MAKE) -f CMakeFiles/driver_exec.dir/build.make CMakeFiles/driver_exec.dir/depend
 	$(MAKE) -f CMakeFiles/driver_exec.dir/build.make CMakeFiles/driver_exec.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles --progress-num=4,5 "Built target driver_exec"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles --progress-num=6,7 "Built target driver_exec"
 .PHONY : CMakeFiles/driver_exec.dir/all
 
 # Include target in all.
@@ -118,7 +118,7 @@ all: CMakeFiles/driver_exec.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/driver_exec.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/driver_exec.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/pi/code_name_PaRtY/driver/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/driver_exec.dir/rule

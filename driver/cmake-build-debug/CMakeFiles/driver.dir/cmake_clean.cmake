@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/driver.dir/lib/driver.cpp.o"
   "CMakeFiles/driver.dir/lib/driverManager.cpp.o"
+  "CMakeFiles/driver.dir/lib/Interface.cpp.o"
+  "CMakeFiles/driver.dir/lib/Robot.cpp.o"
   "libdriver.pdb"
   "libdriver.a"
 )

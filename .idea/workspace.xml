@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/offbranch" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62040ef1-16e1-4b97-9597-0a5d69846a1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/lib/Interface.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/lib/Robot.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/lib/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/driver/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/lib/driver.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/lib/driver.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/lib/driverManager.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/lib/driverManager.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/driver_exec.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/driver.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/driver.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/driver_exec" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/driver_exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/cmake-build-debug/libdriver.a" beforeDir="false" afterPath="$PROJECT_DIR$/driver/cmake-build-debug/libdriver.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/lib/driver.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/driver/lib/driver.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/lib/driverManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/driver/lib/driverManager.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/driver/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/move_logic/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/move_logic/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/move_logic/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/move_logic/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l7AMN4CFUg5dio2b58uiQeT3eE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CLionProjects/ledmusicreworkembedded/lib/serial" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/driver/lib" />
+      <recent name="$PROJECT_DIR$/move_logic" />
+      <recent name="$PROJECT_DIR$/driver" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="main" />
+      <command value="Driver" />
+      <command value="Driver.cpp" />
+      <command value="driver/Driver.cpp" />
+      <command value="code_name_PaRtY/driver/Driver.cpp" />
+      <command value="g++ Driver.cpp Driver.h -o Driver" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62040ef1-16e1-4b97-9597-0a5d69846a1c" name="Default Changelist" comment="" />
+      <created>1606937708165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606937708165</updated>
+      <workItem from="1606937709479" duration="2815000" />
+      <workItem from="1606991360199" duration="4192000" />
+      <workItem from="1607341648354" duration="10250000" />
+      <workItem from="1607366876444" duration="39000" />
+      <workItem from="1607786817349" duration="2320000" />
+      <workItem from="1607796315553" duration="279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/pi/code_name_PaRtY/driver" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/offbranch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607790109481">
+      <screen x="0" y="36" width="1024" height="732" />
+    </state>
+    <state x="0" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1024.732@0.36.1024.732" timestamp="1607790109481" />
+    <state x="417" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1607356009074" />
+    <state x="242" y="201" width="551" height="395" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606940753147">
+      <screen x="0" y="36" width="1024" height="732" />
+    </state>
+    <state x="242" y="201" width="551" height="395" key="#com.intellij.fileTypes.FileTypeChooser/0.36.1024.732@0.36.1024.732" timestamp="1606940753147" />
+    <state x="396" y="232" width="303" height="340" key="FileChooserDialogImpl" timestamp="1607796354529">
+      <screen x="0" y="36" width="1024" height="732" />
+    </state>
+    <state x="396" y="232" width="303" height="340" key="FileChooserDialogImpl/0.36.1024.732@0.36.1024.732" timestamp="1607796354529" />
+    <state x="742" y="315" width="426" height="484" key="FileChooserDialogImpl/0.36.1920.1044@0.36.1920.1044" timestamp="1607366913061" />
+    <state width="1872" height="275" key="GridCell.Tab.0.bottom" timestamp="1607365666360">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1872" height="275" key="GridCell.Tab.0.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1607365666360" />
+    <state width="1872" height="275" key="GridCell.Tab.0.center" timestamp="1607365666359">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1872" height="275" key="GridCell.Tab.0.center/0.36.1920.1044@0.36.1920.1044" timestamp="1607365666359" />
+    <state width="1872" height="275" key="GridCell.Tab.0.left" timestamp="1607365666358">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1872" height="275" key="GridCell.Tab.0.left/0.36.1920.1044@0.36.1920.1044" timestamp="1607365666358" />
+    <state width="1872" height="275" key="GridCell.Tab.0.right" timestamp="1607365666359">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1872" height="275" key="GridCell.Tab.0.right/0.36.1920.1044@0.36.1920.1044" timestamp="1607365666359" />
+    <state x="213" y="36" key="SettingsEditor" timestamp="1606991406102">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="213" y="36" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1606991406102" />
+    <state x="757" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607356019230">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="757" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.36.1920.1044@0.36.1920.1044" timestamp="1607356019230" />
+    <state x="622" y="255" width="672" height="677" key="run.anything.popup" timestamp="1607356097613">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="622" y="255" width="672" height="677" key="run.anything.popup/0.36.1920.1044@0.36.1920.1044" timestamp="1607356097613" />
+  </component>
+</project>

@@ -134,6 +134,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/pi/code_name_PaRtY/driver/lib/Interface.cpp">
+			<Option target="driver"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/driver/lib/Interface.h">
+			<Option target="driver"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/driver/lib/Robot.cpp">
+			<Option target="driver"/>
+		</Unit>
+		<Unit filename="/home/pi/code_name_PaRtY/driver/lib/Robot.h">
+			<Option target="driver"/>
+		</Unit>
 		<Unit filename="/home/pi/code_name_PaRtY/driver/lib/driver.cpp">
 			<Option target="driver"/>
 		</Unit>

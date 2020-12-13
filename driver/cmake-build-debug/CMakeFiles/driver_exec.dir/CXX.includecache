@@ -6,19 +6,33 @@
 
 #IncludeRegexTransform: 
 
-../lib/driver.h
+/home/pi/code_name_PaRtY/driver/lib/Interface.h
+
+/home/pi/code_name_PaRtY/driver/lib/Robot.h
+vector
+-
+
+/home/pi/code_name_PaRtY/driver/lib/driver.h
 wiringPi.h
 -
 softPwm.h
 -
 
-../lib/driverManager.h
+/home/pi/code_name_PaRtY/driver/lib/driverManager.h
+
+/home/pi/code_name_PaRtY/driver/lib/main.h
+driver.h
+/home/pi/code_name_PaRtY/driver/lib/driver.h
+driverManager.h
+/home/pi/code_name_PaRtY/driver/lib/driverManager.h
+Robot.h
+/home/pi/code_name_PaRtY/driver/lib/Robot.h
+Interface.h
+/home/pi/code_name_PaRtY/driver/lib/Interface.h
 
 /home/pi/code_name_PaRtY/driver/main.cpp
 iostream
 -
-driver.h
-/home/pi/code_name_PaRtY/driver/driver.h
-driverManager.h
-/home/pi/code_name_PaRtY/driver/driverManager.h
+../driver/lib/main.h
+/home/pi/code_name_PaRtY/driver/lib/main.h
 

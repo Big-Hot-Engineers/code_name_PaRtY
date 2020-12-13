@@ -2,8 +2,7 @@
 // Created by pi on 12.12.2020.
 //
 
-#include "driver.h"
-#include "driverManager.h"
+#include "main.h"
 
 
 DriverManager::DriverManager (): left(27, 24),

@@ -136,6 +136,60 @@ driver_exec/fast:
 	$(MAKE) -f CMakeFiles/driver_exec.dir/build.make CMakeFiles/driver_exec.dir/build
 .PHONY : driver_exec/fast
 
+lib/Interface.o: lib/Interface.cpp.o
+
+.PHONY : lib/Interface.o
+
+# target to build an object file
+lib/Interface.cpp.o:
+	$(MAKE) -f CMakeFiles/driver.dir/build.make CMakeFiles/driver.dir/lib/Interface.cpp.o
+.PHONY : lib/Interface.cpp.o
+
+lib/Interface.i: lib/Interface.cpp.i
+
+.PHONY : lib/Interface.i
+
+# target to preprocess a source file
+lib/Interface.cpp.i:
+	$(MAKE) -f CMakeFiles/driver.dir/build.make CMakeFiles/driver.dir/lib/Interface.cpp.i
+.PHONY : lib/Interface.cpp.i
+
+lib/Interface.s: lib/Interface.cpp.s
+
+.PHONY : lib/Interface.s
+
+# target to generate assembly for a file
+lib/Interface.cpp.s:
+	$(MAKE) -f CMakeFiles/driver.dir/build.make CMakeFiles/driver.dir/lib/Interface.cpp.s
+.PHONY : lib/Interface.cpp.s
+
+lib/Robot.o: lib/Robot.cpp.o
+
+.PHONY : lib/Robot.o
+
+# target to build an object file
+lib/Robot.cpp.o:
+	$(MAKE) -f CMakeFiles/driver.dir/build.make CMakeFiles/driver.dir/lib/Robot.cpp.o
+.PHONY : lib/Robot.cpp.o
+
+lib/Robot.i: lib/Robot.cpp.i
+
+.PHONY : lib/Robot.i
+
+# target to preprocess a source file
+lib/Robot.cpp.i:
+	$(MAKE) -f CMakeFiles/driver.dir/build.make CMakeFiles/driver.dir/lib/Robot.cpp.i
+.PHONY : lib/Robot.cpp.i
+
+lib/Robot.s: lib/Robot.cpp.s
+
+.PHONY : lib/Robot.s
+
+# target to generate assembly for a file
+lib/Robot.cpp.s:
+	$(MAKE) -f CMakeFiles/driver.dir/build.make CMakeFiles/driver.dir/lib/Robot.cpp.s
+.PHONY : lib/Robot.cpp.s
+
 lib/driver.o: lib/driver.cpp.o
 
 .PHONY : lib/driver.o
@@ -227,6 +281,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... driver"
 	@echo "... driver_exec"
+	@echo "... lib/Interface.o"
+	@echo "... lib/Interface.i"
+	@echo "... lib/Interface.s"
+	@echo "... lib/Robot.o"
+	@echo "... lib/Robot.i"
+	@echo "... lib/Robot.s"
 	@echo "... lib/driver.o"
 	@echo "... lib/driver.i"
 	@echo "... lib/driver.s"
