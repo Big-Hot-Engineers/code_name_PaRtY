@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilya/Рабочий стол/Технопарк/gyroscope/MPU6050_AND_SERIAL/MPU6050.cpp
+MPU6050.h
+/home/ilya/Рабочий стол/Технопарк/gyroscope/MPU6050_AND_SERIAL/MPU6050.h
+
+/home/ilya/Рабочий стол/Технопарк/gyroscope/MPU6050_AND_SERIAL/MPU6050.h
+string
+-
+iostream
+-
+unistd.h
+-
+fcntl.h
+-
+chrono
+-
+
+/home/ilya/Рабочий стол/Технопарк/gyroscope/MPU6050_AND_SERIAL/main.cpp
+iostream
+-
+MPU6050.h
+/home/ilya/Рабочий стол/Технопарк/gyroscope/MPU6050_AND_SERIAL/MPU6050.h
+time.h
+-
+

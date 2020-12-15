@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MPU6050_AND_SERIAL.dir/main.cpp.o CMakeFiles/MPU6050_AND_SERIAL.dir/MPU6050.cpp.o  -o MPU6050_AND_SERIAL 

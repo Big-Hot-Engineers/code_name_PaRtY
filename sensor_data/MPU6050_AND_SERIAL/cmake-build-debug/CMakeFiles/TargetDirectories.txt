@@ -1,0 +1,3 @@
+/home/ilya/Рабочий стол/Технопарк/gyroscope/MPU6050_AND_SERIAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/Рабочий стол/Технопарк/gyroscope/MPU6050_AND_SERIAL/cmake-build-debug/CMakeFiles/MPU6050_AND_SERIAL.dir
+/home/ilya/Рабочий стол/Технопарк/gyroscope/MPU6050_AND_SERIAL/cmake-build-debug/CMakeFiles/edit_cache.dir
