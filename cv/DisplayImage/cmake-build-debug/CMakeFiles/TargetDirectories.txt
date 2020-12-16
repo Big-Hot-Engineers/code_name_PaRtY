@@ -1,0 +1,3 @@
+/home/ilya/Рабочий стол/Stepik/Clion/DisplayImage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/Рабочий стол/Stepik/Clion/DisplayImage/cmake-build-debug/CMakeFiles/DisplayImage.dir
+/home/ilya/Рабочий стол/Stepik/Clion/DisplayImage/cmake-build-debug/CMakeFiles/edit_cache.dir
