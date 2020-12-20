@@ -3,7 +3,7 @@ project(driver)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_library(driver lib/driver.cpp lib/driverManager.cpp lib/Interface.cpp lib/Robot.cpp)
+add_library(driver lib/driver.cpp lib/driverManager.cpp ../../move_logic/Interface/Interface.cpp ../../move_logic/Robot/Robot.cpp)
 
 target_include_directories(driver PUBLIC lib)
 

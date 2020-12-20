@@ -1,5 +1,5 @@
 #include <cmath>
-#include "main.h"
+#include "../../driver/lib/main.h"
 
 Interface::Interface() {
     /*map.resize(MAP_SIZE);

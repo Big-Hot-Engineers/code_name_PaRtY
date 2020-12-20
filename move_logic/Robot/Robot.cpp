@@ -1,7 +1,7 @@
 #include <cmath>
 #include <cstdlib>
 #include <vector>
-#include "main.h"
+#include "../../driver/lib/main.h"
 
 Robot::Robot(): position({START_X_POSITION, START_Y_POSITION}){}
 

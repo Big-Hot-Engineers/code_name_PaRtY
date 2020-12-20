@@ -11,6 +11,6 @@ add_subdirectory(arduino)
 add_subdirectory(cv)
 add_subdirectory(map)
 add_subdirectory(move_logic)
-add_subdirectory(driver)
+add_subdirectory(Hardware/driver)
 
 add_executable(main ${SOURCE_EXE})

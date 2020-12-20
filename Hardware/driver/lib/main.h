@@ -3,7 +3,7 @@
 
 #include "driver.h"
 #include "driverManager.h"
-#include "Robot.h"
-#include "Interface.h"
+#include "../../../move_logic/Robot/Robot.h"
+#include "../../../move_logic/Interface/Interface.h"
 
 #endif //ROBOTIC_WAY_MAIN_H

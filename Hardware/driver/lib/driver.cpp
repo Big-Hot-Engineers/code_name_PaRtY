@@ -8,6 +8,7 @@
 using namespace std;
 
 Driver::Driver(int fwdPin, int bwdPin) {
+    wiringPiSetup();
     this->fwdPin = fwdPin;
     this->bwdPin = bwdPin;
 }

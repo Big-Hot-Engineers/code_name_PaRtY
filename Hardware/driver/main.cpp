@@ -3,7 +3,7 @@
 //
 
 #include <iostream>
-#include "../driver/lib/main.h"
+#include "lib/main.h"
 
 using namespace std;
 
