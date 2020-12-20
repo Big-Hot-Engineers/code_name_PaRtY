@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/Serial_.dir/main.cpp.o CMakeFiles/Serial_.dir/file_descriptor.cpp.o CMakeFiles/Serial_.dir/serial.cpp.o CMakeFiles/Serial_.dir/base_exception.cpp.o CMakeFiles/Serial_.dir/Sensors.cpp.o CMakeFiles/Serial_.dir/IK_sensor.cpp.o CMakeFiles/Serial_.dir/Sensor_interface.cpp.o CMakeFiles/Serial_.dir/Gyroscope.cpp.o  -o Serial_ 

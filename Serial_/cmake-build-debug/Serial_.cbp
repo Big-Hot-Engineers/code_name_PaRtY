@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Serial_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sergey/CLionProjects/Serial_/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sergey/CLionProjects/Serial_/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sergey/CLionProjects/Serial_/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Serial_">
+				<Option output="/home/sergey/CLionProjects/Serial_/cmake-build-debug/Serial_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sergey/CLionProjects/Serial_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 Serial_"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Serial_/fast">
+				<Option output="/home/sergey/CLionProjects/Serial_/cmake-build-debug/Serial_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sergey/CLionProjects/Serial_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 Serial_/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/CLionProjects/Serial_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/Gyroscope.cpp">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/Gyroscope.h">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/IK_sensor.cpp">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/IK_sensor.h">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/Sensor_interface.cpp">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/Sensor_interface.h">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/Sensors.cpp">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/Sensors.h">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/base_exception.cpp">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/base_exception.h">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/file_descriptor.cpp">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/file_descriptor.h">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/main.cpp">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/serial.cpp">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/serial.h">
+			<Option target="Serial_"/>
+		</Unit>
+		<Unit filename="/home/sergey/CLionProjects/Serial_/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
