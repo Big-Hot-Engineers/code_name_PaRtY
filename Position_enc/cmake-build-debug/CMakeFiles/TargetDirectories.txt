@@ -1,0 +1,3 @@
+/home/kadyrov_suleyman/Position_enc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kadyrov_suleyman/Position_enc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kadyrov_suleyman/Position_enc/cmake-build-debug/CMakeFiles/Position_enc.dir

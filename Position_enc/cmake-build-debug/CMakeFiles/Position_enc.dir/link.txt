@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Position_enc.dir/main.cpp.o CMakeFiles/Position_enc.dir/Position_from_enc.cpp.o  -o Position_enc 
